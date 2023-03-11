@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hi, I'm Ezio Cangialosi
+French developer, open-source, horse and linux lover. I like to develop some electronic things to make my life easier !
 
+## 💬 Languages & Frameworks
+- :heart: C/C++, Arduino
+- 💚 Python
+- 👉 HTML, CSS, JS, Bash
+
+## 🥰 My heart projects
+ <a href="https://github.com/eziocangialosi/OpenVehicleLocator">
+    <img src="https://raw.githubusercontent.com/eziocangialosi/OVL-Documentation/master/images/OVL_logo_name_white.png" alt="OVL logo" title="OVL" align="left" height="60" />
+</a>
+<br>A complete system for tracking a vehicle in an open-source way !
+<br><br>
 <!--
-**eziocangialosi/eziocangialosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- [CarreRFN-DIY](https://github.com/eziocangialosi/CarreRFN-DIY), a reproduction of an french railway signalisation at 1/2 scale !
 -->
