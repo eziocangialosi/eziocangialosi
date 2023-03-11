@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ezio Cangialosi
-French developer, open-source, horse and linux lover. I like to develop some electronic things to make my life easier !
+French developer, open-source, horse and linux lover. I like to develop some electronics things to make my life easier !
 
 ## 💬 Languages & Frameworks
 - :heart: C/C++, Arduino
